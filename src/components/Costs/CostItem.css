@@ -1,0 +1,41 @@
+.cost-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  margin: 1rem 0;
+  background-color: #95d5b2;
+}
+
+.cost-item__description {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: flex-end;
+  flex-flow: column-reverse;
+  justify-content: flex-start;
+  flex: 1;
+}
+
+.cost-item h2 {
+  color: #5c5f60;
+  font-size: 1.5rem;
+  flex: 1;
+  margin: 0 0.5rem;
+}
+
+.cost-item__price {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #5c5f60;
+  background-color: #95c4d5;
+  border: 1px solid white;
+  padding: 0.5rem;
+  border-radius: 12px;
+}
+
+.cost-item__date {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #5c5f60;
+}

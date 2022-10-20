@@ -1,0 +1,15 @@
+.cost-list {
+  list-style: none;
+  padding: 0;
+}
+
+.cost-list__fallback {
+  color: #5c5f60;
+  text-align: center;
+  margin: 15px 25rem;
+  font-weight: bold;
+  background-color: #d59595;
+  border: 1px solid white;
+  padding: 0.5rem;
+  border-radius: 12px;
+}
