@@ -1,6 +1,6 @@
 # Expenses Tracker Application 💸
 
-React Web Application to track expenses
+React Web Application to keep track of expenses
 
 ## Built With
 
